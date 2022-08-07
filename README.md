@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+## Bonjour
 
 <!--
 **fujimi-cpu/fujimi-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
