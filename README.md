@@ -1,6 +1,16 @@
 # Hi there 👋
 
-## Bonjour
+## Bonjour  
+
+<br>
+
+<!-- ### test -->
+
+
+<!-- $$
+\theta = \nabla_{\theta_i} f(X_i, \theta_i)
+$$ -->
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fujimi-cpu&count_private=true&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
